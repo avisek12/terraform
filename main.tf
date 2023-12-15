@@ -3,7 +3,7 @@
 #
 # Build WebServer during Bootstrap
 #
-# Made by Denis Astahov
+# Made by Avisek
 #----------------------------------------------------------
 
 provider "aws" {
